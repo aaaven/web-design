@@ -1,0 +1,54 @@
+#schedule{
+	position: absolute;
+	left:300px;
+}
+
+#schedule h2{
+	width: 630px;
+	text-align: center;
+	margin: 0 0 10px 0;
+}
+
+#schedule h3{
+	width: 630px;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+
+#schedule h4{
+	text-align: center;
+}
+
+#schedule h5{
+	position: relative;
+	left: 0.5em;
+}
+
+#mon,#tue,#wed,#thu,#fri,#sat{
+	position: relative;
+	margin:0px;
+	width:630px;
+	height:230px;
+}
+
+.morning, .afternoon{
+	position: relative;
+	width: 310px;
+	height: 200px;
+	float:left;
+	margin-left: 0px;
+	margin-top: 0px;
+	padding: 0px;
+	background: red;
+	overflow-y: scroll;	
+	overflow-x: hidden;
+}
+.morning{
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+.afternoon{
+	margin-bottom: 10px; 
+}
