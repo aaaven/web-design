@@ -10,7 +10,7 @@ body{
     bottom: 0;
     left: 0;
     right: 0;*/
-	
+
 }
 @font-face {
     font-family: 'shorelines';
@@ -170,7 +170,7 @@ text-align: center;
 }
 
 .afternoon{
-	margin-bottom: 10px; 
+	margin-bottom: 10px;
 }
 
 #assignment{
@@ -196,10 +196,10 @@ text-align: center;
 	background-image: url("../img/angela-final.gif");
 }
 .emily.final {
-	background-image: url("../img/FinalEmily.jpg");
+	background-image: url("../img/emily-final.jpg");
 }
 .kathy.final {
-	background-image: url("../img/FinalKathy.gif");
+	background-image: url("../img/Kathy-final.gif");
 }
 .kevin.final {
 	background-image: url("../img/kevin-final.png");
@@ -212,7 +212,7 @@ text-align: center;
 	background-image: url("../img/emily-webcomic.jpg");
 }
 .kathy.comic {
-	background-image: url("../img/FinalKathy.gif");
+	background-image: url("../img/kathy-webcomic.gif");
 }
 .kevin.comic {
 	background-image: url("../img/kevin-webcomic.jpg");
@@ -256,7 +256,7 @@ text-align: center;
 footer{
 	position:fixed;
     bottom:0;
-	width:100%; 
+	width:100%;
 	background-color:#FFF100;
 	height:30px;
 }
